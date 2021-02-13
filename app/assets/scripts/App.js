@@ -4,7 +4,7 @@ import MobileMenu from './modules/MobileMenu'
 import RevealOnScroll from './modules/RevealOnScroll'
 import StickyHeader from './modules/StickyHeader'
 
-
+alert("testing!!! more testing!!!")
 if(module.hot){
     module.hot.accept()
 }
